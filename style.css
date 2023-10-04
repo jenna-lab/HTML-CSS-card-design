@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
 }
-
+/* Style for the main container */
 .container {
   display: flex;
   align-items: center;
@@ -10,7 +10,7 @@
   background-color: hsl(212, 45%, 89%);
   height: 100vh;
 }
-
+/* Style for the card container */
 .card {
   background-color: hsl(0, 0%, 100%);
   height: 480px;
