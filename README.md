@@ -15,7 +15,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![QR Code Component Screenshot](./images/Screenshot%202023-10-04%20165250.png)
+![QR Code Component Screenshot](./images/Screenshot%202023-10-04%20205511.png)
 
 ### Live Demo
 
