@@ -4,7 +4,6 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ## Table of Contents
 
-- [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Live Demo](#live-demo)
   - [Built With](#built-with)
@@ -13,7 +12,6 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-## Overview
 
 ### Screenshot
 
